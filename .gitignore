@@ -127,6 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 /data
 *.pt
+=======
+>>>>>>> c1960d7992062d40bd48c062e32aaff9c9ebd164
